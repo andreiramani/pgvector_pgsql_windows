@@ -12,4 +12,4 @@
 <br>
 Unofficial release.
 <br><br>
-additional contributor: Juris Vassa Ivandro @unej
+Contributor compiler: <a href="https://github.com/vjivandro">Juris Vassa Ivandro</a>
