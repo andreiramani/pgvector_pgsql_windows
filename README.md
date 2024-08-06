@@ -3,8 +3,8 @@
 - pgvector v0.7.3 binary, compiled in Microsoft Windows with PostgreSQL 15 <br>
 - pgvector v0.7.4 binary, compiled in Microsoft Windows with PostgreSQL 16
 <p></p>
-Extracted zip file to "[pg_installed folder]\share\extension\"
-<br><p></p>
-Unofficial release.
+Extracted zip file to "[pg_installed folder]\share\extension\"<br>
 <p></p>
+Unofficial release.
+<br><p></p>
 additional contribution: Juris Vassa Ivandro @unej
