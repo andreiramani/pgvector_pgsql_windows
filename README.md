@@ -5,5 +5,6 @@
 <p></p>
 Extracted zip file to "[pg_installed folder]\share\extension\"
 <br><p></p>
-unofficial release.
-thanks to: Juris Vassa Ivandro @unej
+Unofficial release.
+<p></p>
+additional contribution: Juris Vassa Ivandro @unej
