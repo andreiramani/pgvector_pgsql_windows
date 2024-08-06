@@ -1,7 +1,6 @@
 # [pgvector](https://github.com/pgvector/pgvector) binary compile, Microsoft Windows, Postgresql
 <hr>
-- pgvector v0.7.3 binary, compiled in Microsoft Windows with PostgreSQL 15 <br>
-- pgvector v0.7.4 binary, compiled in Microsoft Windows with PostgreSQL 16
+See <a href="https://github.com/andreiramani/pgvector_pgsql_windows/releases">releases</a> for available version
 <br><br>
 <b>How to's</b>:
 <br>
