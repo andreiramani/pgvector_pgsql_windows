@@ -14,6 +14,6 @@ See <a href="https://github.com/andreiramani/pgvector_pgsql_windows/releases">re
 <p></p>
 <hr>
 <br>
-Unofficial release.
+<b>***** Unofficial release *****</b>
 <br><br>
 Contributor compiler: <a href="https://github.com/vjivandro">Juris Vassa Ivandro</a>, <a href="https://github.com/andreiramani">Andrei Ramani</a> 
