@@ -16,4 +16,4 @@ See <a href="https://github.com/andreiramani/pgvector_pgsql_windows/releases">re
 <br>
 <p></p>
 <hr>
-Contributor compiler: <a href="https://github.com/vjivandro">Juris Vassa Ivandro</a>, <a href="https://github.com/andreiramani">Andrei Ramani</a> 
+Contributor compiler: <a href="https://github.com/vjivandro">Juris Vassa Ivandro</a> (v0.7.3, v0.7.4), <a href="https://github.com/andreiramani">Andrei Ramani</a> (v0.8.0)
