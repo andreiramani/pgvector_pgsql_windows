@@ -16,6 +16,11 @@ See <a href="https://github.com/andreiramani/pgvector_pgsql_windows/releases">re
 <br>
 <a href="https://www.navicat.com/en/products/navicat-premium">
     <img src="img/01-create_extension.jpg" alt="Screenshot made with Navicat Premium">
+</a><br><br>
+3. Run this query to check if the extension is enable (t) <br> <code>SELECT extname,extrelocatable,extversion FROM pg_extension where extname='vector'</code>
+<br>
+<a href="https://www.navicat.com/en/products/navicat-premium">
+    <img src="img/02-check_extension.jpg" alt="Screenshot made with Navicat Premium">
 </a>
 
 <p></p>
