@@ -5,7 +5,7 @@
 <hr>
 See <a href="https://github.com/andreiramani/pgvector_pgsql_windows/releases">releases</a> for available version
 <br><br><p></p>
-<b>How to's v0.8.0</b>:
+<b>How to's v0.8.x</b>:
 <br>
 1. Check readme.txt (inside archive)<br>
 <br>
