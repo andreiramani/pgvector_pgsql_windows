@@ -26,3 +26,6 @@ See <a href="https://github.com/andreiramani/pgvector_pgsql_windows/releases">re
 <p></p>
 <hr>
 Contributor compiler: <a href="https://github.com/vjivandro">vjivandro</a> (v0.7.3, v0.7.4), <a href="https://github.com/andreiramani">andreiramani</a> (v0.8.0, v0.8.1)
+<p></p>
+
+[![Star History Chart](https://api.star-history.com/svg?repos=andreiramani/pgvector_pgsql_windows&type=Date)](https://star-history.com/#andreiramani/pgvector_pgsql_windows&Date)
