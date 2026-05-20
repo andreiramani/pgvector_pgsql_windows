@@ -1,7 +1,7 @@
 # [pgvector](https://github.com/pgvector/pgvector) binary compile, Microsoft Windows x64, PostgreSQL
 <hr>
 <b>***** Unofficial release *****</b>
-<br>Intended for individuals who encountered difficulties in compiling.<br>
+
 <hr>
 See <a href="https://github.com/andreiramani/pgvector_pgsql_windows/releases">releases</a> for available version
 <br><br><p></p>
