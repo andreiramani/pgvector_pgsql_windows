@@ -28,4 +28,6 @@ See <a href="https://github.com/andreiramani/pgvector_pgsql_windows/releases">re
 Contributor compiler: <a href="https://github.com/vjivandro">vjivandro</a> (v0.7.3, v0.7.4), <a href="https://github.com/andreiramani">andreiramani</a> (v0.8.0 - v0.8.2)
 <p></p>
 
+[![oosmetrics](https://api.oosmetrics.com/api/v1/badge/achievement/440ad839-a8d7-4eb7-ad42-b5497ce3ef3d.svg)](https://oosmetrics.com/repo/andreiramani/pgvector_pgsql_windows)
+
 [![Star History Chart](https://api.star-history.com/svg?repos=andreiramani/pgvector_pgsql_windows&type=Date)](https://star-history.com/#andreiramani/pgvector_pgsql_windows&Date)
