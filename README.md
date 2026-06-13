@@ -1,4 +1,5 @@
 # [pgvector](https://github.com/pgvector/pgvector) binary compile, Microsoft Windows x64, PostgreSQL
+<br>[![oosmetrics](https://api.oosmetrics.com/api/v1/badge/achievement/440ad839-a8d7-4eb7-ad42-b5497ce3ef3d.svg)](https://oosmetrics.com/repo/andreiramani/pgvector_pgsql_windows)
 <hr>
 <b>***** Unofficial release *****</b>
 
