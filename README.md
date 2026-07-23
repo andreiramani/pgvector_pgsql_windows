@@ -34,6 +34,6 @@ Contributor compiler: <a href="https://github.com/vjivandro">vjivandro</a> (v0.7
 
 <!-- 
 [![oosmetrics](https://api.oosmetrics.com/api/v1/badge/achievement/440ad839-a8d7-4eb7-ad42-b5497ce3ef3d.svg)](https://oosmetrics.com/repo/andreiramani/pgvector_pgsql_windows)
--->
 
 [![Star History Chart](https://api.star-history.com/svg?repos=andreiramani/pgvector_pgsql_windows&type=Date)](https://star-history.com/#andreiramani/pgvector_pgsql_windows&Date)
+-->
